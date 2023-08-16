@@ -50,5 +50,5 @@ For inquiries or feedback, feel free to reach out to me  at `dankor2000@gmail.co
 
 Happy adventuring!
 
-d_UnityLogo.png
+![Unity Logo](images/d_UnityLogo.png)
 
