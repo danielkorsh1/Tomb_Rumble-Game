@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "359738427184",
+    "firebase_url": "https://tombrumbe-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tombrumbe",
+    "storage_bucket": "tombrumbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359738427184:android:d7dcf1fd34885b7304aaf5",
+        "android_client_info": {
+          "package_name": "com.Jupiter.TumbRumble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359738427184-rmfa4re8ccik8bumvsi2qk1bebqtijlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxN49sC1tdka5DbWlGcMFPEu-1Tijc5WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359738427184-rmfa4re8ccik8bumvsi2qk1bebqtijlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
